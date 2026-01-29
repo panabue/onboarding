@@ -11,3 +11,4 @@ onboarding/
 - cd backend | npm run start (Inicializa o Nest)
 - cd frontend | npm run dev (Inicializa o Vite+React)
 - docker-compose up -d (Sobe o docker-compose)
+- npm install --save @nestjs/typeorm typeorm pg @nestjs/config (Instala dependencias do TypeOrm)
